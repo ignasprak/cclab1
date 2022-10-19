@@ -37,3 +37,8 @@ body {
 button:focus {
     border: 1px solid #333;
 }
+
+center. {
+    auto-margin-left: 100%;
+    auto-margin-right: 100%;
+}
